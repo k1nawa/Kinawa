@@ -1,0 +1,22 @@
+h1{
+    margin-bottom: 20px;
+}
+
+.borderDuoiAnh{
+    width: 329px;
+    border: 5px gray solid;
+    margin-top: 5px;
+    padding: 7px 6px;
+}
+/*
+margin: top right bottom left
+chạy theo chiều kim đồng hồ
+
+nếu ghi 3 thành phần thì sẽ là:
+margin: top right-left bottom 
+margin: 5px 10px 2px;
+
+nếu ghi 2 thành phần thì sẽ hiểu là:
+margin: top-bottom right-left
+
+*/
